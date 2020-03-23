@@ -1,11 +1,11 @@
 {
   "app_name": "custom-policies",
-  "src_hash": "7a22bcb6e94394846f6263311a9716950506b914",
+  "src_hash": "404ebd4f598a7f275c9097c2ffb2b12c298799f3",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "194",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/custom-policies-ui-frontend/builds/665839293"
+    "build_number": "196",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/custom-policies-ui-frontend/builds/665867983"
   }
 }
