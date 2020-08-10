@@ -1,11 +1,11 @@
 {
   "app_name": "policies",
-  "src_hash": "f9f4802a558f6b7af58988a9195f4577dac62695",
+  "src_hash": "ac9fe4d3c0b297d56c2ab0098565d356e7711a6f",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "609",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/policies-ui-frontend/builds/715881781"
+    "build_number": "612",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/policies-ui-frontend/builds/716709152"
   }
 }
