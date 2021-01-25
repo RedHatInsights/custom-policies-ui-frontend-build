@@ -1,12 +1,12 @@
 {
   "app_name": "policies",
-  "src_hash": "54116de76612f060ff8ac3834d3f1ff4b312fc73",
+  "src_hash": "8653ed9df396cd6ba6fbf696102054df6737cfaa",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@4.65.6","@patternfly/react-core@4.79.2","@patternfly/react-icons@4.7.18","@patternfly/react-styles@4.7.16","@patternfly/react-table@4.19.24"],
   "travis": {
     "event_type": "push",
-    "build_number": "728",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/policies-ui-frontend/builds/213338407"
+    "build_number": "732",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/policies-ui-frontend/builds/214400547"
   }
 }
