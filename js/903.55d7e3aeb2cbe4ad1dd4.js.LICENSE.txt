@@ -19,21 +19,10 @@
  */
 
 /*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <https://feross.org>
- * @license  MIT
- */
-
-/*!
 * screenfull
 * v5.0.1 - 2020-01-19
 * (c) Sindre Sorhus; MIT License
 */
-
-/*! https://mths.be/punycode v1.3.2 by @mathias */
-
-/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 /** @license React v0.18.0
  * scheduler.production.min.js
