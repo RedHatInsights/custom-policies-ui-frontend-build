@@ -1,10 +1,11 @@
 {
     "policies": {
         "entry": [
-            "/apps/policies/policies.d0e7274e3ca27901f54a.js"
+            "/apps/policies/policies.1647524214451.1cb21687ea0534a96057.js"
         ],
         "modules": [
-            "/apps/policies/js/730.b16cb5e9f557146d12d8.js"
+            "/apps/policies/js/485.1647524214406.1cb21687ea0534a96057.js",
+            "/apps/policies/css/485.6316e6dc407615bad0b6.css"
         ]
     }
 }
