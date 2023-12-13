@@ -1,11 +1,11 @@
 {
     "policies": {
         "entry": [
-            "/apps/policies/policies.1702403304963.99ec11ca0ed5220b3a3b.js"
+            "/beta/apps/policies/policies.1702475149126.34ad09d67ef203ea0c4a.js"
         ],
         "modules": [
-            "/apps/policies/js/485.1702403304916.99ec11ca0ed5220b3a3b.js",
-            "/apps/policies/css/485.6316e6dc407615bad0b6.css"
+            "/beta/apps/policies/js/485.1702475149074.34ad09d67ef203ea0c4a.js",
+            "/beta/apps/policies/css/485.6316e6dc407615bad0b6.css"
         ]
     }
 }
