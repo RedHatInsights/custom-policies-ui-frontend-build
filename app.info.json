@@ -1,14 +1,14 @@
 {
   "app_name": "policies",
   "node_version": "unknown",
-  "src_hash": "9ae186c82a7cd7bae952bf7c489bcf4ae31b47e7",
+  "src_hash": "c5e1d4bb578b84144b1f153614afb04310726c1d",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@4.115.2","@patternfly/react-core@4.135.0","@patternfly/react-icons@4.11.0","@patternfly/react-styles@4.11.0","@patternfly/react-table@4.29.0"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@3.2.2","@redhat-cloud-services/frontend-components-utilities@3.5.0","@redhat-cloud-services/frontend-components@3.9.1","@redhat-cloud-services/insights-common-typescript@4.13.0","@redhat-cloud-services/rbac-client@1.0.100"],
   "travis": {
     "event_type": "push",
-    "build_number": "1195",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/policies-ui-frontend/builds/270474281"
+    "build_number": "1196",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/policies-ui-frontend/builds/270694602"
   }
 }
